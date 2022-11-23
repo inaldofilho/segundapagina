@@ -1,3 +1,3 @@
 # segundapagina
  segunda pagina de projeto modelo
- https://inaldofilho.github.io/segundapagina/
+ https://inaldofilho.github.io/primeirapagina/
